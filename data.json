@@ -6,7 +6,7 @@
       "email": "admin@gmail.com",
       "password": "admin123",
       "cpassword": "admin123",
-      "role": "0",
+     "isAdmin": true,
       "createdAt": "2025-01-27T06:15:01.529Z"
     },
     {
@@ -15,7 +15,7 @@
       "email": "ram@gmail.com",
       "password": "ram123",
       "cpassword": "ram123",
-      "role": "1",
+     "isAdmin": false,
       "createdAt": "2025-02-03T05:25:36.103Z"
     },
     {
@@ -24,7 +24,7 @@
       "email": "meera@gmail.com",
       "password": "12345",
       "cpassword": "12345",
-      "role": "1",
+     "isAdmin": false,
       "createdAt": "2025-02-18T06:07:44.221Z"
     }
   ],
