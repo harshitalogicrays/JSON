@@ -324,5 +324,8 @@
       "orderTime": "11:41:27 AM",
       "createdAt": "2025-02-18T06:11:27.181Z"
     }
-  ]
+  ],
+  "categories":[],
+  "cart":[],
+  "checkouts":[]
 }
